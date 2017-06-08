@@ -30,6 +30,8 @@ Here we point out that you want to deliver likelihood functions, not posterior p
 
 Give more examples of *Gaia* DR1 papers.
 
+This section is a good place to highlight the difference between likelihood and posterior estimators. One difference is that posterior estimators change badly with re-parameterizations, whereas likelihood don't. Another is that data can be combined at the likelihood level, but not at the posterior level
+
 ## Parallaxes at low signal-to-noise
 
 The correction dies at low signal-to-noise. What to do? Reject? This is point (4) in the abstract.
